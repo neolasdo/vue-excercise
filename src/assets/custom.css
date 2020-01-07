@@ -1,0 +1,20 @@
+#treeview {
+    padding: 25px 30px;
+}
+
+.tree-view {
+    list-style-type: none;
+    text-align: left;
+}
+.content {
+    padding-bottom: 20px;
+}
+.tree-item {
+    padding: 5px 10px;
+}
+del {
+    text-decoration: line-through;
+}
+.drag-overing {
+    background: aqua;
+}
